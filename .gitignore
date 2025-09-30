@@ -1,0 +1,7 @@
+# OS-specific files
+.DS_Store
+desktop.ini
+
+# Folders
+.idea
+.venv
